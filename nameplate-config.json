@@ -1,0 +1,5 @@
+{
+  "textChangeInterval": 2000,
+  "statusUpdateInterval": 5000,
+  "configUpdateInterval": 30000
+}
